@@ -1,11 +1,4 @@
 ﻿# Integrated Retail Analytics — Store Optimization & Demand Forecasting
-
-**Author:** Vishal Kumar Singh
-**Institution:** AlmaBetter — M.Sc. Data Science
-**Year:** 2026
-**Contribution:** Individual
-**GitHub:** https://github.com/CodesByVishal/Integrated-Retail-Analytics-for-Store-Optimization
-
 ---
 
 ## Project Overview
